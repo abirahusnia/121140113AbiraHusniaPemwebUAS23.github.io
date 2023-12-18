@@ -49,6 +49,7 @@ Session diterapkan pada file login.php untuk masuk ke session harus mendaftar ak
 Cookie diterapkan pada file login.php untuk menyimpan data login ke local server sehingga user dapat langsung masuk ke halaman web beranda<br><br>
 
 ## Bagian Bonus: Hosting Aplikasi Web
+https://abira-uas-pemweb.000webhostapp.com/ 
 -Bagaimana Anda meng-host aplikasi web Anda? 
 dengan cara memilih penyedia layanan hosting yang sesuai dengan kebutuhan dan anggaran karena Ada banyak pilihan di pasaran, baik yang gratis maupun berbayar
 
